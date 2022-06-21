@@ -47,6 +47,7 @@ class Calculator {
         break;
       case '1':
       System.out.println("Advance Calculator...!!");
+      System.out.println("Changes Done...!!");
       default:
         System.out.println("Invalid operator!");
         break;
